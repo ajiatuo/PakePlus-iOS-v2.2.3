@@ -14,35 +14,35 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>唤醒图书</string>
+			<string>唤醒书库</string>
 			<key>PayloadDescription</key>
 			<string>Configuration Payload description</string>
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-7F8F19B21014</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-C5DB2259DEE3</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-7F8F19B21014</string>
+			<string>E0736409-C08F-4F54-86DA-C5DB2259DEE3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://booklore.ajiatuo.us.kg:16666</string>
+			<string>https://book.ajiatuo.us.kg:16666</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>PakePlus-iOS-fbbdbdcbbac</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-7F8F19B21014</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-C5DB2259DEE3</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-7F8F19B21014</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-C5DB2259DEE3</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
